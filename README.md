@@ -1,4 +1,4 @@
-# simple-vue-appf
+# simple-blog-vuejs
 
 ## Project setup
 ```
